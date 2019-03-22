@@ -1,4 +1,4 @@
-
+## Michael Dellwo 
   Profession: Accounting & Finance | Utilities Sector    
   
   Location: Auburn, CA
