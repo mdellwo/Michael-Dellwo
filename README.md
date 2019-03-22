@@ -5,7 +5,7 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
 
 
   
-  Picture "IMG_2759.JPG"
+  
   
   profession: Accounting and Finance  
   
@@ -13,7 +13,7 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
   
   email: m.dellwo@hotmail.com
   
-  phone: 530-906-9801
+  
   
  
   linkedin: (https://www.linkedin.com/in/michael-dellwo-bbb46755/)
@@ -59,38 +59,28 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
     
     - tr: " "
     
-  backend:
-   - name: 
-     level: 
-   - name: 
-     level: 
-  frontend:
-   - name: 
-     level: 
-   - name: 
-     level: 
-  other:
-   - name: 
-     level: 
-   - name: 
-     level: 
+    
 
 ## Projects
-  - name: 
-    description: 
-    link: 
-    type:
-    langs: 
+   
 
-  - name:
-    description: 
-    link: 
-    type: 
-    langs: 
+## Education:
 
-education:
-  - name: 
-    degree:
-    location: 
-    dates: 
-    link: 
+  - Bachelor of Science in Business Administration 
+  
+    Risk Management/ Business Strategy  
+    
+    California State University Sacramento College of Business Administration
+    
+    Graduated December 14, 2018 
+    
+  - Associates of Science in Business Administration-Honors
+  
+    Graduated May 13, 2016 
+  
+  - United States Machinery Technician Certification 
+  
+    United States Coast Guard Weapons and Engineering School Yorktown, Virginia 
+    
+    Graduated December 17, 2010
+     
