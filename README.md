@@ -5,7 +5,7 @@ url: https://mdellwo.github.io/Michael-Dellwo/
 
 
   
-  Picture IMG_2759.JPG
+  Picture "IMG_2759.JPG"
   
   profession: Accounting and Finance  
   
