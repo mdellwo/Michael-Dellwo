@@ -1,6 +1,6 @@
 # Michael-Dellwo
 Profile
-url: (https://mdellwo.github.io/Michael-Dellwo/)
+url:(https://mdellwo.github.io/Michael-Dellwo/)
 
 
 
@@ -16,70 +16,28 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
   
   
  
-  linkedin: (https://www.linkedin.com/in/michael-dellwo-bbb46755/)
+  url: https://www.linkedin.com/in/michael-dellwo-bbb46755
   
   
 
 # Career
 
- - Position: Mid Pacific Financial Credit Line Area Program Coordinator 
+ - Position: Mid-Pacific Financial Credit Line Area Program Coordinator 
  
    Company: Bureau of Reclamation 
    
    Location: Sacramento, CA
-   
-   Dates: December 2018 -Present 
-   
-
- - Position: Procument Technician    
- 
-   Company: Bureau of Reclamation 
-   
-   Location: Sacramento, CA
-   
-   Dates: July 2018 - December 2018 | Promoted
-   
- - Position: Business Assistant to Division Chief of Operations, Maintenance and Engineering      
- 
-   Company: Bureau of Reclamation 
-   
-   Location: Folsom, CA
-   
-   Dates: December 2017 - July 2018 | Promoted
-   
-   
-   
-   
-   
-   accomplishments:
-    - accomplishment: 
     
-    - accomplishment: 
-    
- - position: 
- 
-   company: 
-   location: Folsom, CA
-   dates: 
-   summary: 
-   
-   accomplishments:
-    - accomplishment: 
-    - accomplishment: 
-
 ## Technical Skills
-  list:
-    - tr: "creative and very social"
+  List: 
+    - Welding
+    Arc|MIG|Gas
+    -
     
-    - tr: " "
     
-    - tr: " "
     
-    - tr: " '"
     
-    - tr: " "
     
-    - tr: " "
     
     
 
