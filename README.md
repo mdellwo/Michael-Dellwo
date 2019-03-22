@@ -7,7 +7,7 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
   
   
   
-  profession: Accounting and Finance  
+  profession: Accounting & Finance - Utilites Sector    
   
   location: Auburn, CA
   
