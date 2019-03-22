@@ -28,13 +28,24 @@ url:(https://mdellwo.github.io/Michael-Dellwo/)
    
    Location: Sacramento, CA
     
-## Technical Skills
-  List: 
-    - Welding
-    Arc|MIG|Gas
-    -
+# Technical Skills
+   List: 
+   ## Financial
+ 
+   - Financial Modeling 
+    Forecasting|Risk Analysis|Investment Analysis
     
-    
+   
+   ## Technicial Engineering  
+ 
+   - Electrical Troubleshooting And Repair
+  
+   - Welding
+   
+     Arc|MIG|Gas
+   
+   - Mechanical 
+   
     
     
     
@@ -44,7 +55,7 @@ url:(https://mdellwo.github.io/Michael-Dellwo/)
 ## Projects
    
 
-## Education:
+## Education
 
   - Bachelor of Science in Business Administration 
   
