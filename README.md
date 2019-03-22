@@ -14,8 +14,11 @@ url: https://mdellwo.github.io/Michael-Dellwo/
   email: m.dellwo@hotmail.com
   
   phone: 530-906-9801
+  
  
   linkedin:https://www.linkedin.com/in/michael-dellwo-bbb46755/
+  
+  
 
 career:
  - position: Federal Credit Line Area Program Coordinator  
