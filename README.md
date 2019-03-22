@@ -7,7 +7,7 @@ url: https://mdellwo.github.io/Michael-Dellwo/
   
   depiction: headshot.png
   
-  profession: Accounting and Financial Analysis 
+  profession: Accounting and Finance  
   
   location: Auburn CA
   
