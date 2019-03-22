@@ -9,7 +9,7 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
   
   profession: Accounting and Finance  
   
-  location: Auburn CA
+  location: Auburn, CA
   
   email: m.dellwo@hotmail.com
   
