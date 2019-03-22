@@ -1,20 +1,12 @@
 
-url:(https://mdellwo.github.io/Michael-Dellwo/)
-
-
-
-  
-  
-  
   Profession: Accounting & Finance | Utilities Sector    
   
   Location: Auburn, CA
   
   Email: m.dellwo@hotmail.com
   
+  url:(https://mdellwo.github.io/Michael-Dellwo/)
   
-  
- 
   url: https://www.linkedin.com/in/michael-dellwo-bbb46755
   
   
