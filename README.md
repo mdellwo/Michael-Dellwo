@@ -6,12 +6,14 @@ url: http://mdellwo.github.io
 
 person:
   name: Michael Dellwo
+  
   depiction: headshot.png
+  
   profession: Accounting and Financial Analysis 
   location: Auburn CA
   citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
+  email: m.dellwo@hotmail.com
+  
   phone: 530-906-9801
   github: /streetturtle
   linkedin:https://www.linkedin.com/in/michael-dellwo-bbb46755/
