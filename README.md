@@ -3,22 +3,21 @@ Profile
 url: http://mdellwo.github.io
 
 
-# leave blank fields which you don't want to fill/be displayed
+
 person:
   name: Michael Dellwo
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
+  profession: Accounting and Financial Analysis 
+  location: Auburn CA
   citizenship: USA
   email: mikey@tmnt.com
   site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
+  phone: 530-906-9801
   github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  linkedin:https://www.linkedin.com/in/michael-dellwo-bbb46755/
 
 career:
- - position: Foot Clan Antagonist
+ - position: Federal Credit Line Area Program Coordinator  
    company: TMNT inc.
    location: New York, USA
    dates: September 2014 - current
