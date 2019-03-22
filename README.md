@@ -7,7 +7,7 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
   
   
   
-  profession: Accounting & Finance - Utilites Sector    
+  profession: Accounting & Finance | Utilities Sector    
   
   location: Auburn, CA
   
@@ -30,7 +30,26 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
    
    Dates: December 2018 -Present 
    
-As the Mid Pacific Credit Line Area Program Coordinator I serve as the liaison between the agency (Bureau of Reclamation) and our contracting bank (Citibank). My role is essential to the management and effectiveness of employee credit travel card program. The following list identifies specifics of my A/OPC responsibilities: Maintain an up-to-date list of account cardholder information , of all current account holders and accounts. Provide to the contractor bank (Citibank) any changes in the agency's organizational structure that may affect invoice/report distribution. Review and evaluate the banks technical and administrative task order performance and compliance. Resolve technical and operational problems between the bank and account cardholders. Manage appropriate actions regarding delinquent accounts and report to internal investigative and any observed violations of applicable executive orders, laws or regulations. Instruct training conferences and train account cardholders. Manage appropriate steps taken to mitigate suspension or cancellation actions. Assist in the development of agency program procedures and policies as necessary
+
+ - Position: Procument Technician    
+ 
+   Company: Bureau of Reclamation 
+   
+   Location: Sacramento, CA
+   
+   Dates: July 2018 - December 2018 | Promoted
+   
+ - Position: Business Assistant to Division Chief of Operations, Maintenance and Engineering      
+ 
+   Company: Bureau of Reclamation 
+   
+   Location: Folsom, CA
+   
+   Dates: December 2017 - July 2018 | Promoted
+   
+   
+   
+   
    
    accomplishments:
     - accomplishment: 
