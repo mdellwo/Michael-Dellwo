@@ -4,14 +4,13 @@ url: http://mdellwo.github.io
 
 
 
-person:
-  name: Michael Dellwo
   
   depiction: headshot.png
   
   profession: Accounting and Financial Analysis 
+  
   location: Auburn CA
-  citizenship: USA
+  
   email: m.dellwo@hotmail.com
   
   phone: 530-906-9801
