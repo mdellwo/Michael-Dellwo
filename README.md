@@ -1,6 +1,6 @@
 # Michael-Dellwo
 Profile
-url: https://mdellwo.github.io/Michael-Dellwo/
+url: (https://mdellwo.github.io/Michael-Dellwo/)
 
 
 
@@ -16,11 +16,12 @@ url: https://mdellwo.github.io/Michael-Dellwo/
   phone: 530-906-9801
   
  
-  linkedin: https://www.linkedin.com/in/michael-dellwo-bbb46755/
+  linkedin: (https://www.linkedin.com/in/michael-dellwo-bbb46755/)
   
   
 
-career:
+# Career
+
  - position: Mid Pacific Financial Credit Line Area Program Coordinator  
    company: Bureau of Reclamation 
    location: Sacramento, CA
@@ -44,7 +45,7 @@ career:
     - accomplishment: 
     - accomplishment: 
 
-technicalSkills:
+# Technical Skills
   list:
     - tr: "creative and very social"
     
@@ -74,7 +75,7 @@ technicalSkills:
    - name: 
      level: 
 
-sideProjects:
+# Projects
   - name: 
     description: 
     link: 
