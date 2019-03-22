@@ -7,11 +7,11 @@ url:(https://mdellwo.github.io/Michael-Dellwo/)
   
   
   
-  profession: Accounting & Finance | Utilities Sector    
+  Profession: Accounting & Finance | Utilities Sector    
   
-  location: Auburn, CA
+  Location: Auburn, CA
   
-  email: m.dellwo@hotmail.com
+  Email: m.dellwo@hotmail.com
   
   
   
@@ -29,7 +29,7 @@ url:(https://mdellwo.github.io/Michael-Dellwo/)
    Location: Sacramento, CA
     
 # Technical Skills
-   List: 
+    
    ## Financial
  
    - Financial Modeling 
