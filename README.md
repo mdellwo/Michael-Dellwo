@@ -1,7 +1,7 @@
 # Michael-Dellwo
 Profile
 url: http://mdellwo.github.io
-projectUrl: jekyl-cv-crafter
+
 
 # leave blank fields which you don't want to fill/be displayed
 person:
