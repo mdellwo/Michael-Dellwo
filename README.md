@@ -45,7 +45,7 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
     - accomplishment: 
     - accomplishment: 
 
-# Technical Skills
+## Technical Skills
   list:
     - tr: "creative and very social"
     
@@ -75,7 +75,7 @@ url: (https://mdellwo.github.io/Michael-Dellwo/)
    - name: 
      level: 
 
-# Projects
+## Projects
   - name: 
     description: 
     link: 
